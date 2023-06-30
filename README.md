@@ -11,7 +11,7 @@ This repository contains an example project with Hummingbird and Vapor apps, all
 ## How to use Tuist with this repository
 
 1. Install [Tuist](https://github.com/tuist/tuist) in your environment.
-1. Git clone the repository: `git clone https://github.com/tuist`.
+1. Git clone the repository: `git clone https://github.com/tuist/swift-on-server-examples.git`.
 2. Fetch the dependencies with `tuist fetch`.
 3. Run `tuist cache warm` to warm the cache.
 4. Run `tuist generate`
