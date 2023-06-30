@@ -1,3 +1,1 @@
-import HummingbirdApp
-
 HummingbirdArguments.main()
